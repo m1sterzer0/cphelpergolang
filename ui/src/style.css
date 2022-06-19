@@ -1,0 +1,31 @@
+
+label {
+    display: inline-block;
+    width:   100px;
+    text-align: left;
+}
+
+input {
+    width:  100px;
+}
+
+button {
+    margin: 5px 5px 5px 5px
+}
+
+.resetbutton {
+    max-width: 100px
+}
+
+.debrinfield {
+    max-width: 200px
+}
+
+.block {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.button2 {
+    width: 100px
+}
